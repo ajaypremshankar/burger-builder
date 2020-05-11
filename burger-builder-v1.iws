@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d17f6d9-1f90-452a-a962-f63af07c6d0f" name="Default Changelist" comment="" />
+    <list default="true" id="5d17f6d9-1f90-452a-a962-f63af07c6d0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -31,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Burger/BurgerIngredient" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -93,17 +98,34 @@
       <updated>1588829516054</updated>
       <workItem from="1588829518456" duration="897000" />
       <workItem from="1588835050673" duration="16275000" />
+      <workItem from="1589216665097" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Summary:&#10;    1) Initial commit with basic burger addition/removal feature.">
+      <created>1589216837347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589216837347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Summary:&#10;    1) Initial commit with basic burger addition/removal feature." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Summary:&#10;    1) Initial commit with basic burger addition/removal feature." />
   </component>
   <component name="WindowStateProjectService">
     <state x="603" y="320" key="#Notifications" timestamp="1588835066204">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="603" y="320" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1588835066204" />
+    <state x="291" y="22" key="CommitChangelistDialog2" timestamp="1589216837107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="291" y="22" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589216837107" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589171123497">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -124,5 +146,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588835122821" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1589216852306">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589216852306" />
+    <state x="477" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589216714781">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="477" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1440.900@0.0.1440.900" timestamp="1589216714781" />
   </component>
 </project>

@@ -1,3 +1,7 @@
 /node_modules/
 /yarn.lock
 /package-lock.json
+
+./burger-builder-v1.iml
+./burger-builder-v1.ipr
+./burger-builder-v1.iws
