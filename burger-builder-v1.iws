@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d17f6d9-1f90-452a-a962-f63af07c6d0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/OrderSummary/OrderSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/burger-builder-v1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/burger-builder-v1.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +39,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1bZB11huQOT7VSg4Fq8bYaf3T7v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -98,7 +113,7 @@
       <updated>1588829516054</updated>
       <workItem from="1588829518456" duration="897000" />
       <workItem from="1588835050673" duration="16275000" />
-      <workItem from="1589216665097" duration="337000" />
+      <workItem from="1589216665097" duration="12132000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Summary:&#10;    1) Initial commit with basic burger addition/removal feature.">
       <created>1589216837347</created>
@@ -107,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589216837347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Summary:&#10;    1) Initial commit with basic burger addition/removal feature.">
+      <created>1589217022222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589217022222</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,37 +144,41 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="603" y="320" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1588835066204" />
-    <state x="291" y="22" key="CommitChangelistDialog2" timestamp="1589216837107">
+    <state x="291" y="18" key="CommitChangelistDialog2" timestamp="1589217022072">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="291" y="22" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589216837107" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589171123497">
+    <state x="291" y="18" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589217022072" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589249824933">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589171123497" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589171123496">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589249824933" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589249824931">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589171123496" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589171123495">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589249824931" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589249824930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589171123495" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589171123497">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589249824930" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589249824932">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589171123497" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589249824932" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1588835122821">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588835122821" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1589216852306">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1589217023610">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589216852306" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589217023610" />
     <state x="477" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589216714781">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1440.900@0.0.1440.900" timestamp="1589216714781" />
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589249791425">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="508" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1589249791425" />
   </component>
 </project>
